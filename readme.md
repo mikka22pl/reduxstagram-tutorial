@@ -14,5 +14,5 @@ Run `npm build` to create a distro folder and a bundle.js file.
 
 # czesc
 
-skonczone na ##12
-teraz ##13
+skonczone na ##16
+teraz ##17
