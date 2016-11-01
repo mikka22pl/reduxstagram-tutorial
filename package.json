@@ -61,9 +61,9 @@
   "devDependencies": {
     "expect": "1.18.0",
     "expect-jsx": "2.5.1",
-    "minimatch": "^3.0.2",
+    "minimatch": "3.0.2",
     "mocha": "2.4.5",
     "react-addons-test-utils": "15.0.2",
-    "webpack-dev-server": "^1.16.2"
+    "webpack-dev-server": "1.16.2"
   }
 }
